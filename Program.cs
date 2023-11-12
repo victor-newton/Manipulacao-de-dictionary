@@ -1,4 +1,6 @@
 ﻿
+Console.Clear();
+
 Dictionary<string, List<int>> vendasCarros = new Dictionary<string, List<int>> {
     { "Bugatti Veyron", new List<int> { 10, 15, 12, 8, 5 } },
     { "Koenigsegg Agera RS", new List<int> { 2, 3, 5, 6, 7 } },
@@ -13,11 +15,14 @@ foreach (string carros in vendasCarros.Keys){
     Console.WriteLine(carros);
 }
 
+Console.WriteLine("");
+
 string carroSelecionado = Console.ReadLine()!;
 
 if (vendasCarros.ContainsKey(carroSelecionado)){
 
-    double mediaVendas = Queryable.Average(vendasCarros.AsQueryable(carroSelecionado));
+    double mediaVendas = Queryable.Average(vendasCarros[carroSelecionado].AsQueryable());
+    Console.WriteLine($"A medias de vendas do carro selecionado {carroSelecionado} foi de {mediaVendas}");
 
 }
 else{
