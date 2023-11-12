@@ -14,19 +14,12 @@ foreach (string carros in vendasCarros.Keys){
 }
 
 string carroSelecionado = Console.ReadLine()!;
-int somaCarro = 0;
-int a = 0;
+
 if (vendasCarros.ContainsKey(carroSelecionado)){
-    for(int i=0; i < vendasCarros[carroSelecionado].Count; i++){
 
-        vendasCarros[carroSelecionado].Contains(a);
+    double mediaVendas = Queryable.Average(vendasCarros.AsQueryable(carroSelecionado));
 
-        somaCarro = somaCarro + a;
-    }
 }
 else{
     Console.WriteLine($"Carro selecionado nao existe em nossa base de dados");
 }
-
-
-Console.WriteLine(somaCarro);

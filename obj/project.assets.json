@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/victor/.nuget/packages/": {}
+    "C:\\Users\\VICTOR\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/victor/Área de trabalho/Manipulacao de dictionary/EXERCICIO3.csproj",
+      "projectUniqueName": "C:\\Users\\VICTOR\\Desktop\\__CURSO C# ATIVIDADES\\Manipulacao-de-dictionary\\EXERCICIO3.csproj",
       "projectName": "EXERCICIO3",
-      "projectPath": "/home/victor/Área de trabalho/Manipulacao de dictionary/EXERCICIO3.csproj",
-      "packagesPath": "/home/victor/.nuget/packages/",
-      "outputPath": "/home/victor/Área de trabalho/Manipulacao de dictionary/obj/",
+      "projectPath": "C:\\Users\\VICTOR\\Desktop\\__CURSO C# ATIVIDADES\\Manipulacao-de-dictionary\\EXERCICIO3.csproj",
+      "packagesPath": "C:\\Users\\VICTOR\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\VICTOR\\Desktop\\__CURSO C# ATIVIDADES\\Manipulacao-de-dictionary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/victor/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\VICTOR\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -13,3 +13,17 @@
 /home/victor/Área de trabalho/ALURA C#/EXERCICIO3/obj/Debug/net7.0/EXERCICIO3.pdb
 /home/victor/Área de trabalho/ALURA C#/EXERCICIO3/obj/Debug/net7.0/EXERCICIO3.genruntimeconfig.cache
 /home/victor/Área de trabalho/ALURA C#/EXERCICIO3/obj/Debug/net7.0/ref/EXERCICIO3.dll
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Manipulacao-de-dictionary\bin\Debug\net7.0\EXERCICIO3.exe
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Manipulacao-de-dictionary\bin\Debug\net7.0\EXERCICIO3.deps.json
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Manipulacao-de-dictionary\bin\Debug\net7.0\EXERCICIO3.runtimeconfig.json
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Manipulacao-de-dictionary\bin\Debug\net7.0\EXERCICIO3.dll
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Manipulacao-de-dictionary\bin\Debug\net7.0\EXERCICIO3.pdb
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Manipulacao-de-dictionary\obj\Debug\net7.0\EXERCICIO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Manipulacao-de-dictionary\obj\Debug\net7.0\EXERCICIO3.AssemblyInfoInputs.cache
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Manipulacao-de-dictionary\obj\Debug\net7.0\EXERCICIO3.AssemblyInfo.cs
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Manipulacao-de-dictionary\obj\Debug\net7.0\EXERCICIO3.csproj.CoreCompileInputs.cache
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Manipulacao-de-dictionary\obj\Debug\net7.0\EXERCICIO3.dll
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Manipulacao-de-dictionary\obj\Debug\net7.0\refint\EXERCICIO3.dll
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Manipulacao-de-dictionary\obj\Debug\net7.0\EXERCICIO3.pdb
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Manipulacao-de-dictionary\obj\Debug\net7.0\EXERCICIO3.genruntimeconfig.cache
+C:\Users\VICTOR\Desktop\__CURSO C# ATIVIDADES\Manipulacao-de-dictionary\obj\Debug\net7.0\ref\EXERCICIO3.dll
